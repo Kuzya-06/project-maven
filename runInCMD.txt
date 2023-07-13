@@ -1,0 +1,1 @@
+java -jar "c:\Misha1\Project_maven\target\project-maven-1.0.jar"
